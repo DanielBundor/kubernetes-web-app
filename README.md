@@ -2,7 +2,8 @@
 
 This project demonstrates how to deploy a simple web application using Kubernetes. The web application serves a static HTML page.
 
-### This project was inspired by ![THE KUBERNETES BOOK](https://github.com/DanielBundor/kubernetes-web-app/blob/dev/images/KubernetesBook.jpeg) 
+### This project was inspired by 
+![THE KUBERNETES BOOK](https://github.com/DanielBundor/kubernetes-web-app/blob/dev/images/KubernetesBook.jpeg) 
 
 ## Prerequisites
 
