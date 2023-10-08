@@ -42,14 +42,13 @@ This project demonstrates how to deploy a simple web application using Kubernete
     ```
    Open the provided URL in your web browser to access the web application. 
 
-3. Teardown
-
-To remove the deployed resources, run:
+3. Teardown:
+   To remove the deployed resources, run:
     shell
     ```
     ./scripts/teardown.sh
 
-    ```
-## Contributing 
+     ```
+## Contributing
 
 - Feel free to contribute to this project by opening issues or pull requests. 
