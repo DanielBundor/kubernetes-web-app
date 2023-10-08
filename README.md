@@ -21,7 +21,7 @@ This project demonstrates how to deploy a simple web application using Kubernete
 1. Clone this repository:
 
    ```shell
-   git clone https://github.com/your-username/kubernetes-web-app.git
+   git clone https://github.com/DanielBundor/kubernetes-web-app.git
    cd kubernetes-web-app
 
 ## Additional Steps for Working with Repo
